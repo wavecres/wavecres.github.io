@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap:https://wavecres.github.io/JTGD/sitemap_index.txt
+Sitemap:https://wavecres.github.io/JTGE/sitemap_index.txt
+Sitemap:https://wavecres.github.io/JTGF/sitemap_index.txt
+Sitemap:https://wavecres.github.io/JTGG/sitemap_index.txt
+Sitemap:https://wavecres.github.io/JTGH/sitemap_index.txt
+Sitemap:https://wavecres.github.io/JTGI/sitemap_index.txt
